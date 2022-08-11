@@ -1,2 +1,2 @@
 # CaesarCipher
-a Caesar cipher code using Java to try JUnitTest
+A Caesar cipher code using Java to try JUnitTest
