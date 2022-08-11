@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="caesars.cipher.CaesarCipherTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-08-11T13:58:12" hostname="ELHADJ" time="0.027">
+  <properties/>
+  <testcase name="testCipheredEmptyMessage()" classname="caesars.cipher.CaesarCipherTest" time="0.025"/>
+  <testcase name="testCipheredMessageWithOffset12()" classname="caesars.cipher.CaesarCipherTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
